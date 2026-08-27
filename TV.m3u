@@ -1,0 +1,61 @@
+#EXTM3U
+
+
+##########################Televisi##########################
+
+#EXTINF:-1 ch-number="23" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SCTV HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h0217/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="24" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",INDOSIAR HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h0235/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="35" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MOJI HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="36" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MENTARI HD
+https://tvratu.my.id/vid/index.m3u8?id=8237&type=hls
+
+#EXTINF:-1 ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",KOMPASTV HD
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="260" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",REPUBLIKA TV
+https://tvratu.my.id/vid/index.m3u8?id=7464&type=hls
+
+#EXTINF:-1 ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SIN PO tv HD
+https://tvratu.my.id/vid/index.m3u8?id=19046&type=hls
+
+#EXTINF:-1 ch-number="28" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",RCTI HD
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=android-R+
+
+#EXTINF:-1 ch-number="29" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MNCTV HD
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv|user-agent=android-R+
+
+#EXTINF:-1 ch-number="30" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GTV HD
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv|user-agent=android-R+
+
+#EXTINF:-1 ch-number="31" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",iNews HD
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews|user-agent=android-R+
+
+#EXTINF:-1 ch-number="22" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",METRO TV HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="38" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1388617247_b3884000_sleng.m3u8
+
+#EXTINF:-1 ch-number="39" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",BN CHANNEL
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 ch-number="45" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",Jawapos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/chunklist_w872216397.m3u8
+
+#EXTINF:-1 ch-number="17" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",GARUDA TV HD
+https://hgmtv.com:2020/hls/garudatvlivestreaming/1080p.m3u8
+
+#EXTINF:-1 ch-number="44" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",SMILE TV
+http://36.93.73.155:1919/hls/live.m3u8
+
+#EXTINF:-1 ch-number="259" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_mid.m3u8
+
+#EXTINF:-1 ch-number="285" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",JAK TV
+https://op-flashcon-digdayasd-1.dens.tv/h/h209/S2/mnf.m3u8|user-agent=Mozilla/5.0
